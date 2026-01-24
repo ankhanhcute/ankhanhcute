@@ -14,9 +14,9 @@
 
 **Plot twist:** A semester ago, I had *mini* coding experience. Like, just `Hello World!` 🙈
 
-I started my college journey as a **Math major** — a completely different path. But something kept pulling me toward tech. In 2024, while still in my math track, I decided to try a Machine Learning internship just to explore and find something fun. Little did I know, that internship would become my **first stepping stone** into this whole new world. 🌱
+I started my college journey as a **Math major** — a completely different path. But something kept pulling me toward tech. In 2024, while still in my math track, I decided to try a Machine Learning internship just to explore different path and find something fun. Little did I know, that internship would become my **first stepping stone** into this whole new world. 🌱
 
-That experience changed everything. I fell in love with building things, solving real problems with data, and seeing models actually *work*. So I took a deep breath and made the scariest decision of my life — **I switched to Data Science & AI**.
+That experience lit a little spark in me. I fell in love with building things, solving real problems with data, and seeing models actually *work*. So I took a deep breath and made the scariest decision of my life — **I switched to Data Science & AI**.
 
 That was just **one semester ago**. 
 
