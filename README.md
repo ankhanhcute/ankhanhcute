@@ -1,4 +1,4 @@
-# Hey there! I'm Khanh Truong, or Ellie (*God is my light*) 👋💖
+# Hey there! I'm Khanh Truong, or *Ellie* 👋💖
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=Data+Science%2FAI+%2B+Statistics+Student+%F0%9F%8C%B8;From+Non-Tech+to+Tech!;Building+cool+things+with+data+%E2%9C%A8" alt="Typing SVG" />
 
