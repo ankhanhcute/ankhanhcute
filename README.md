@@ -1,6 +1,6 @@
 # Hey there! I'm Khanh (Ellie) Truong 👋💖
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Data+Science+%2B+AI+Student+%F0%9F%8C%B8;From+Non-Tech+to+Tech+in+7+Months!;Building+cool+things+with+data+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Data+Science+%2B+AI+Student+%F0%9F%8C%B8;From+Non-Tech+to+Tech!;Building+cool+things+with+data+%E2%9C%A8" alt="Typing SVG" />
 
 🎓 **Data Science & AI + Statistics** @ Florida International University  
 📍 Miami, FL ☀️ | GPA: **3.94** ⭐
