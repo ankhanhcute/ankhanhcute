@@ -5,7 +5,6 @@
 🎓 **Data Science & AI + Statistics** @ Florida International University  
 📍 Miami, FL ☀️ | GPA: **3.94** ⭐
 
-[![Email](https://img.shields.io/badge/📧_Email-truongphanankhanh%40gmail.com-ff69b4?style=for-the-badge)](mailto:truongphanankhanh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_with_me!-0077B5?style=for-the-badge)](https://www.linkedin.com/in/khanhtruong2610/)
 
 ---
