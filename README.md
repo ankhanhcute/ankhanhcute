@@ -26,11 +26,11 @@ This journey taught me that it's **never too late** to start something new. You 
 
 ## 🌟 A Little About Me
 
-I'm someone who believes data tells stories that can change the world! 📊💡
+I'm someone who believes data tells stories that can change the world! 💡
 
 I love turning messy datasets into meaningful insights, building ML models that actually *work*, and making pretty visualizations that even non-tech people can understand. My approach? **Clean code, clear storytelling, and lots of passion.**
 
-When I'm not coding, you can probably find me exploring Miami's food scene 🍜, binge-watching shows, or dreaming about my next project idea!
+When I'm not coding, you can probably find me baking, drinking matcha latte or learning new things!
 
 ---
 
@@ -81,11 +81,11 @@ Teaching Python and OOP to 40+ students. Honestly, explaining concepts to others
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elliephan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankhanhcute&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elliephan&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankhanhcute&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -113,13 +113,13 @@ print(me.say_hi())
 
 I love meeting new people, especially fellow career-changers and data enthusiasts! Don't be shy to reach out 💌
 
-📧 **Email:** truongphanankhanh@gmail.com  
+📧 **Email:** ktruong@fiu.edu
 💼 **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/khanhtruong2610/)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elliephan&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ankhanhcute&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
