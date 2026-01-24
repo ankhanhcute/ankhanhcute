@@ -12,7 +12,7 @@
 
 ## 🌸 My Story: From Non-Tech to Tech 
 
-**Plot twist:** A semester ago, I had *mini* coding experience. Like, just `Hello World!` 🙈
+**Plot twist:** A semester ago, I had *mini* coding experience. Like, just `basic syntax` 🙈
 
 I started my college journey as a **Math major** — a completely different path. But something kept pulling me toward tech. In 2024, while still in my math track, I decided to try a Machine Learning internship just to explore different path and find something fun. Little did I know, that internship would become my **first stepping stone** into this whole new world. 🌱
 
