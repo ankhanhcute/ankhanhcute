@@ -28,7 +28,6 @@ Here's my growing tech toolkit! (Growing because I learn something new every wee
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### ☁️ Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 Tools I Love
@@ -80,15 +79,12 @@ Teaching Python and OOP to 40+ students. Honestly, explaining concepts to others
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankhanhcute&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=ankhanhcute&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
 
 
 ---
