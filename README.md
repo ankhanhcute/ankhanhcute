@@ -12,13 +12,15 @@
 
 ## 🌸 My Story: From Non-Tech to Tech 
 
-**Plot twist:** 7 months ago, I had *zero* coding experience. Like, none. Nada. 🙈
+**Plot twist:** A semester ago, I had *mini* coding experience. Like, just `Hello World!` 🙈
 
-I started my college journey in a completely different field, but something didn't feel right. I kept finding myself drawn to problem-solving, data, and the magic of how technology shapes our world. So one day, I took a deep breath and made the scariest decision of my life — **I switched to Data Science & AI**.
+I started my college journey as a **Math major** — a completely different path. But something kept pulling me toward tech. In 2024, while still in my math track, I decided to try a Machine Learning internship just to explore and find something fun. Little did I know, that internship would become my **first stepping stone** into this whole new world. 🌱
+
+That experience changed everything. I fell in love with building things, solving real problems with data, and seeing models actually *work*. So I took a deep breath and made the scariest decision of my life — **I switched to Data Science & AI**.
 
 That was just **one semester ago**. 
 
-Since then? It's been a wild, beautiful, sometimes-frustrating-but-always-rewarding ride! 🎢 I went from "what is a for loop?" to building machine learning pipelines, doing research, and teaching other students Python. 
+Since then? It's been a wild, beautiful, sometimes-frustrating-but-always-rewarding ride! 🎢 I went from barely knowing what a for loop was to building ML pipelines, doing research, and even teaching other students Python. 
 
 This journey taught me that it's **never too late** to start something new. You don't need to be a childhood coding prodigy to make it in tech. You just need curiosity, determination, and a whole lot of coffee ☕✨
 
