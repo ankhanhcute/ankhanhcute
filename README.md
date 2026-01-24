@@ -1,6 +1,6 @@
 # Hey there! I'm Khanh (Ellie) Truong 👋💖
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&lines=Data+Science+%2B+AI+Student+%F0%9F%8C%B8;From+Non-Tech+to+Tech!;Building+cool+things+with+data+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=Data+Science%2FAI+%2B+Statistics+Student+%F0%9F%8C%B8;From+Non-Tech+to+Tech!;Building+cool+things+with+data+%E2%9C%A8" alt="Typing SVG" />
 
 🎓 **Data Science & AI + Statistics** @ Florida International University  
 📍 Miami, FL ☀️ | GPA: **3.94** ⭐
@@ -60,8 +60,6 @@ Here's my growing tech toolkit! (Growing because I learn something new every wee
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
 ---
 
 ## 🧪 What I've Been Up To
