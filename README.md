@@ -36,32 +36,6 @@ Here's my growing tech toolkit! (Growing because I learn something new every wee
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ---
 
-## 🌸 My Story: From Non-Tech to Tech 
-
-**Plot twist:** A semester ago, I had *mini* coding experience. Like, just `basic syntax` 🙈
-
-I started my college journey as a **Math major** — a completely different path. But something kept pulling me toward tech. In 2024, while still in my math track, I decided to try a Machine Learning internship just to explore different path and find something fun. Little did I know, that internship would become my **first stepping stone** into this whole new world. 🌱
-
-That experience lit a little spark in me. I fell in love with building things, solving real problems with data, and seeing models actually *work*. So I took a deep breath and made the scariest decision of my life — **I switched to Data Science & AI**.That was just **one semester ago**. 
-
-Since then? It's been a wild, beautiful, sometimes-frustrating-but-always-rewarding ride! 🎢 I went from barely knowing what a for loop was to building ML pipelines, doing research, and even teaching other students Python. 
-
-This journey taught me that it's **never too late** to start something new. You don't need to be a childhood coding prodigy to make it in tech. You just need curiosity, determination, and a whole lot of coffee ☕✨
-
----
-
-## 🌟 A Little About Me
-
-I'm someone who believes data tells stories that can change the world! 💡
-
-I love turning messy datasets into meaningful insights, building ML models that actually *work*, and making pretty visualizations that even non-tech people can understand. My approach? **Clean code, clear storytelling, and lots of passion.**
-
-When I'm not coding, you can probably find me baking, drinking matcha latte or learning new things!
-
----
-
-
-
 ## 🧪 What I've Been Up To
 
 ### 🔬 Undergraduate Research Assistant — SOLID Lab @ FIU
