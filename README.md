@@ -52,15 +52,6 @@ Teaching Python and OOP to 40+ students. Honestly, explaining concepts to others
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ankhanhcute&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-
-
----
 
 ## 💭 Current Mood
 
