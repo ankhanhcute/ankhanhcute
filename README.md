@@ -2,7 +2,7 @@
 
 Machine learning engineer and researcher working on ML systems, scientific data, and applied AI.
 
-Currently pursuing B.S. degrees in Data Science & Artificial Intelligence and Statistics at Florida International University, with a Fall 2026 exchange at the University of Georgia.
+Currently pursuing B.S. degrees in Data Science & Artificial Intelligence and Statistics at Florida International University, with a year exchange at the University of Georgia.
 
 My work spans large-scale data pipelines, semantic retrieval, LLM workflows, temporal modeling, forecasting, and distributed learning.
 
