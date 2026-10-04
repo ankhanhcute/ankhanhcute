@@ -1,90 +1,40 @@
-# Hiiii! I'm Khanh Truong, or *Ellie* 👋💖
+# Ellie Truong
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=500&lines=Data+Science%2FAI+%2B+Statistics+Student+%F0%9F%8C%B8;From+Non-Tech+to+Tech!;Building+cool+things+with+data+%E2%9C%A8" alt="Typing SVG" />
+Machine learning engineer and researcher working on ML systems, scientific data, and applied AI.
 
-🎓 **Data Science & AI + Statistics** @ Florida International University  
-📍 Miami, FL ☀️ | GPA: **3.94** ⭐
+Currently pursuing B.S. degrees in Data Science & Artificial Intelligence and Statistics at Florida International University, with a Fall 2026 exchange at the University of Georgia.
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_with_me!-0077B5?style=for-the-badge)](https://www.linkedin.com/in/khanhtruong2610/)
+My work spans large-scale data pipelines, semantic retrieval, LLM workflows, temporal modeling, forecasting, and distributed learning.
 
----
+## Experience
 
-## 🛠️ Languages & Tools I Use
+**NBC Lab, Florida International University — Research Assistant**
+- Built automation and data pipelines across 12K+ annotations, 10K+ labels, and ~1,795 publications
+- Developed knowledge-graph and LLM data pipelines for scientific literature mining
 
-Here's my growing tech toolkit! (Growing because I learn something new every week 😅)
+**Gershman Lab, Harvard University — Machine Learning Engineer Intern**
+- Built end-to-end PyTorch pipelines across 150+ datasets
+- Developed temporal sequence models reaching 0.950 F1 and 95.1% recall
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**SOLID Lab, Florida International University — Machine Learning Researcher**
+- Worked on robust distributed learning under Byzantine and adversarial failures
+- Improved model robustness by 20%
 
-### 🤖 ML & Data Science
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**TC Shipping — Machine Learning Intern**
+- Built ML pipelines across 100K+ telemetry and service records
+- Reduced false alerts by 18% and improved degradation detection by 3–7 days
 
-### ☁️ Cloud & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Selected Work
 
-### 🔧 Tools I Love
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
----
+**ABCD Publications Mining**
+LLM and semantic retrieval pipeline for 90K+ scientific variables with batched embeddings, checkpoint recovery, and cosine similarity search.
 
-## 🧪 What I've Been Up To
+**Prenergyze**
+End-to-end energy forecasting system using PyTorch, FastAPI, XGBoost, and LightGBM.
 
-### 🔬 Undergraduate Research Assistant — SOLID Lab @ FIU
-Working on **blockchain + federated learning** for smart parking privacy! Built reputation-based client filtering systems to make AI more secure and trustworthy. Research life is hard but so rewarding! 🔐
+**Market Sentiment Analysis**
+FinBERT-based research pipeline analyzing 2+ years of news and market data across major technology companies.
 
-### 🎧 Data Analytics Extern — Beats by Dre
-Got to analyze Gen Z consumer behavior using Python and Power BI. Turning messy survey data into insights that help real product decisions? *Chef's kiss* 👨‍🍳💋
+## Stack
 
-### ⚙️ Machine Learning Intern — TC Shipping (Vietnam)
-Built anomaly detection pipelines on 100K+ records! Reduced false alerts by 18% and predicted equipment issues 3-7 days early. My models actually saved money! 💸
-
-### 👩‍🏫 Teaching Assistant — COP 3045 @ FIU
-Teaching Python and OOP to 40+ students. Honestly, explaining concepts to others helped ME understand them better too. Teaching is learning! 📚
-
----
-
-
-## 💭 Current Mood
-
-```python
-class Ellie:
-    def __init__(self):
-        self.name = "Khanh (Ellie) Truong"
-        self.role = "Aspiring Data Scientist"
-        self.mood = "Excited to learn! 🚀"
-        self.coffee_cups_today = float('inf')  # always more
-        
-    def say_hi(self):
-        return "Thanks for stopping by my profile! Let's connect 💖"
-
-me = Ellie()
-print(me.say_hi())
-```
-
----
-
-## 🤝 Let's Be Friends!
-
-I love meeting new people, especially fellow career-changers and data enthusiasts! Don't be shy to reach out 💌
-
-📧 **Email:** ktruong@fiu.edu
-💼 **LinkedIn:** [Let's connect!](https://www.linkedin.com/in/khanhtruong2610/)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankhanhcute&color=ff69b4&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <em>✨ Remember: It's never too late to start something new! ✨</em>
-</p>
+Python · PyTorch · TensorFlow · Hugging Face · C++ · SQL · FastAPI · scikit-learn · XGBoost · LightGBM · Docker · Linux · CUDA
